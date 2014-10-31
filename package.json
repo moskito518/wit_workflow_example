@@ -1,0 +1,26 @@
+{
+  "name": "wit_template",
+  "version": "0.1.0",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt qunit"
+  },
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-copy": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-contrib-clean": "*",
+    "grunt-contrib-less": "*",
+    "grunt-contrib-imagemin": "*",
+    "grunt-inline": "*",
+    "grunt-rev": "*",
+    "grunt-contrib-cssmin": "*",
+    "grunt-usemin": "*",
+    "grunt-cmd-concat": "*",
+    "grunt-cmd-transport": "*",
+	"grunt-image-embed": "*"
+  }
+}
